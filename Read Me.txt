@@ -1,0 +1,8 @@
+Hi...
+Greetings...
+This is a project so that we can learn how to use git together.
+Both of you will create a folder with your name and create a text file and write something in it.
+
+Thanks
+
+HAPPY LEARNING
